@@ -1,0 +1,13 @@
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.exe
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.deps.json
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.runtimeconfig.json
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.runtimeconfig.dev.json
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.dll
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\bin\Debug\netcoreapp3.1\CountSubstring.pdb
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.csprojAssemblyReference.cache
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.AssemblyInfoInputs.cache
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.AssemblyInfo.cs
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.csproj.CoreCompileInputs.cache
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.dll
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.pdb
+D:\Project\c-sharp\training-csharp\Text\CountSubstring\obj\Debug\netcoreapp3.1\CountSubstring.genruntimeconfig.cache
